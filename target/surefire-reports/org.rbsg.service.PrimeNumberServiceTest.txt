@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.rbsg.service.PrimeNumberServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.165 sec - in org.rbsg.service.PrimeNumberServiceTest
