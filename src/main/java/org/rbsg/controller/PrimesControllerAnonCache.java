@@ -33,6 +33,7 @@ import org.springframework.web.bind.annotation.RestController;
  * Whenever you request resource as json with accept�headers=�Accept=application/json�, then 
  * Jackson2JsonMessageConverter comes into picture and convert resource to json format.
  *  
+ *  Run : http://localhost:8080/primesanoncache/10
  *  
  */
  

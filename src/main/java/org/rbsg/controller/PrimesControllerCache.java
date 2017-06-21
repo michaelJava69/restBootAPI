@@ -38,7 +38,9 @@ import net.sf.ehcache.Element;
  
 //@Controller 
 /*
- * will not work. Results in https//localhost:8080/restServiceApi/primes/primes/10 
+ * Run
+ * 
+ * http://localhost:8080/primescache/10 
  */
 
 @RestController  

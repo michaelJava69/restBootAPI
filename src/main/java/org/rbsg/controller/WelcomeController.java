@@ -6,6 +6,11 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+
+/*
+ * Run http://localhost:8080
+ * 
+ */
 @Controller
 public class WelcomeController {
 

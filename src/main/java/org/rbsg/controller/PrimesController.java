@@ -32,6 +32,7 @@ import java.util.List;
  * Whenever you request resource as json with accept�headers=�Accept=application/json�, then 
  * Jackson2JsonMessageConverter comes into picture and convert resource to json format.
  *  
+ *  http://localhost:8080/primes/10
  *  
  */
  
